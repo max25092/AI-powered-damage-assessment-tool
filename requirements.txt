@@ -1,0 +1,7 @@
+Flask==2.2.5
+tensorflow==2.18.0  # or any other stable version
+ # Or the version you're using
+numpy==1.26.2
+opencv-python==4.10.0.84
+Pillow==10.4.0
+werkzeug==3.0.2
